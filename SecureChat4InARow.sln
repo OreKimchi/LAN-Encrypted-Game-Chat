@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureChat4InARow", "SecureChat4InARow.csproj", "{D38763AE-D28C-40B5-B13D-6B446C57239F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38763AE-D28C-40B5-B13D-6B446C57239F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38763AE-D28C-40B5-B13D-6B446C57239F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38763AE-D28C-40B5-B13D-6B446C57239F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38763AE-D28C-40B5-B13D-6B446C57239F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {084DDE44-1E51-4991-B9B4-532DE9A046C7}
+	EndGlobalSection
+EndGlobal
